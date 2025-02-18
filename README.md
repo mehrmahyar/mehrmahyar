@@ -6,8 +6,8 @@ Welcome to my GitHub playground—where machine learning and deep data analytics
 
 ## About me
 *This section provides a snapshot of my background, core skills, and contact details.*  
-- **Current Role:** Machine Learning Engineer & Data Scientist at WODMotions  
-- **Education:** M.Sc. in Sports Technology (KTH, Stockholm) | B.Sc. in Sports Engineering (Azad University, Tehran)  
+- **Current Role:** Machine Learning Engineer @ WODMotions  
+- **Education:** M.Sc. in Sports Technology (KTH Royal Institute of Technology, Stockholm) | B.Sc. in Sports Engineering (Azad University, Tehran)  
 - **Technical Skills:** Python, SQL, C++, MATLAB, TensorFlow, PyTorch, scikit-learn, and more  
 - **Interests:** Deep learning, time-series forecasting, and advanced predictive modeling  
 - **Contact:** [mahyarmehr1996@gmail.com](mailto:mahyarmehr1996@gmail.com) | [LinkedIn](https://linkedin.com/in/mahyar-mehr)
@@ -30,13 +30,6 @@ Welcome to my GitHub playground—where machine learning and deep data analytics
   Led the machine learning component at Exxentric AB, harnessing wearable sensor data to elevate fitness analytics. Engineered advanced supervised learning models using convolutional neural network layers to classify and classify movements accurately.
 ---
 
-<!-- Enhanced HTML Section -->
-<h3 align="center">A passionate ML Engineer & Data Scientist</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links or icons here -->
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
