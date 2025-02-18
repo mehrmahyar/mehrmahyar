@@ -24,13 +24,10 @@ Welcome to my GitHub playground—where machine learning and deep data analytics
 ---
 
 ## Masters Thesis & Research
-*This section outlines my academic research and advanced ML projects.*  
-- **Master’s Thesis: Advancing Deep Learning for Time-Series Forecasting**  
-  Developed a novel architecture that synergizes transformer modules with recurrent neural networks to tackle complex forecasting challenges. Emphasized innovative data preprocessing, extensive feature engineering, and rigorous hyperparameter tuning to significantly enhance prediction accuracy and model robustness.
-  
-- **Exxentric ML Research:**  
-  Led the machine learning component at Exxentric AB, harnessing wearable sensor data to elevate fitness analytics. Engineered advanced supervised learning models using convolutional and recurrent neural network layers to accurately classify and predict performance metrics. Built robust data pipelines and experimented with various deep learning architectures to ensure scalable, reliable solutions.
+*This section outlines my academic research.*  
 
+- **Exxentric ML Research:**  
+  Led the machine learning component at Exxentric AB, harnessing wearable sensor data to elevate fitness analytics. Engineered advanced supervised learning models using convolutional neural network layers to classify and classify movements accurately.
 ---
 
 <!-- Enhanced HTML Section -->
