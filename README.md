@@ -17,17 +17,20 @@ Welcome to my GitHub playground—where machine learning and deep data analytics
 ## Projects on-going
 *This section highlights the projects I'm currently developing, showcasing my expertise in real-time AI and ML applications.*  
 - **WODMotions AI Integration:**  
-  Real-time movement recognition and predictive modeling achieving a 98% F1-score using Python, AWS, and agile ML pipelines.  
+  Real-time movement recognition using DL, AWS, and agile ML pipelines.
+  
+## Finished Projects
 - **Freelance Time-Series Forecasting:**  
-  Developing transformer-based forecasting models and automated ETL pipelines to boost predictive accuracy.
+  Developed transformer-based forecasting models.
 
 ---
 
 ## Masters Thesis & Research
 *This section outlines my academic research.*  
 
-- **Exxentric ML Research:**  
+- **Exxentric ML Research: Exploring the Feasibility of Exercise Detection on the Exxentric kBox Platform**  
   Led the machine learning component at Exxentric AB, harnessing wearable sensor data to elevate fitness analytics. Engineered advanced supervised learning models using convolutional neural network layers to classify and classify movements accurately.
+  Checkout my thesis: [Link](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1770281&dswid=-2592)
 ---
 
 
